@@ -1756,7 +1756,7 @@ while True:
 	print('*                                                3.QUITAR JUEGO                                                          *')
 	print('*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*')
 	print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
-	opcion = int(input('Elija una de las 3 opciones, escriba el número por favor: '))
+	opcion = int(input('Elija una de las 3 opciones, escriba un numero del 1 al 3 no es tan dificil campeon(aqui estuvo sergio jeje): '))
 	while opcion<1 or opcion >3 :
 		opcion = int(input('Elija una de las 3 opciones, escriba el número por favor: '))
 		os.system('cls')
